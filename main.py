@@ -11,9 +11,9 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common.exceptions import ElementClickInterceptedException
 
-Similar_Account='alarabi_club'
-Username='bartoncreek78'
-Password='Kha1ifeh78??'
+Similar_Account='xxxxxxxx'
+Username='xxxxxxxxxxxx'
+Password='xxxxxxxxxx'
 
 class InstaFollowers:
     def __init__(self):
